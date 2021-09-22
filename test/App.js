@@ -1,4 +1,4 @@
-console.log("Hello git")
-console.log("Hello git")
-console.log("Hello git")
-console.log("Hello git")
+const hello = ()=> {
+    return "Hello, Javascript"
+}
+console.log(hello())
