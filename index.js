@@ -1,1 +1,1 @@
-const hello = document.getElementById("hello").innetHTML = 'HEllo JavaScript'
+const hello = document.getElementById("hello").innetHTML = 'Hello JavaScript'
