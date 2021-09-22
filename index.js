@@ -1,7 +1,1 @@
-console.log("Hello git")
-console.log("Hello git")
-console.log("Hello git")
-console.log("Hello git")
-console.log("Hello git")
-console.log("Hello git")
-console.log("Hello git")
+const hello = document.getElementById("hello").innetHTML = 'HEllo JavaScript'
