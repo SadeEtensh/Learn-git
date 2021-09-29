@@ -1,5 +1,5 @@
 const hello = ()=> {
-    return "Hello, Javascript"
+    return "Hello, Javascript Helo"
 }
 console.log(hello())
 
