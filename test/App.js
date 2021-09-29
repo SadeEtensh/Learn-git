@@ -3,4 +3,4 @@ const hello = ()=> {
 }
 console.log(hello())
 
-const hel1 = val => console.log("Hello" + val);
+const hel1 = val => console.log("Hello1" + val);
